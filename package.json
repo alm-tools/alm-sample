@@ -1,0 +1,22 @@
+{
+  "name": "alm-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alm-tools/alm-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alm-tools/alm-sample/issues"
+  },
+  "homepage": "https://github.com/alm-tools/alm-sample#readme",
+  "dependencies": {
+    "alm": "0.0.16"
+  }
+}
