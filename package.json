@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/alm-tools/alm-sample#readme",
   "dependencies": {
-    "alm": "0.0.16"
+    "alm": "latest"
   }
 }
